@@ -5,4 +5,5 @@
 #nyanmisaka/jellyfin:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-msterzhang/onelist:latest
+#msterzhang/onelist:latest
+19970688/nastools-bt
