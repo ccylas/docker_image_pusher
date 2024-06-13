@@ -7,3 +7,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #msterzhang/onelist:latest
 19970688/nastools-bt
+linuxserver/plex
