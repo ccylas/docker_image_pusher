@@ -8,4 +8,5 @@
 #msterzhang/onelist:latest
 #19970688/nastools-bt
 #linuxserver/plex
-ghcr.io/hass-demacia/koolsmart:main
+#ghcr.io/hass-demacia/koolsmart:main
+asdf1221/music_server:4.6.2
