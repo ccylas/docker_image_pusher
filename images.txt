@@ -9,5 +9,5 @@
 #19970688/nastools-bt
 #linuxserver/plex
 #ghcr.io/hass-demacia/koolsmart:main
-asdf1221/music_server:4.6.2
+binaryify/netease_cloud_music_api
 #summary/portainer-ce
