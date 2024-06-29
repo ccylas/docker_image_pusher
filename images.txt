@@ -11,3 +11,4 @@
 #ghcr.io/hass-demacia/koolsmart:main
 binaryify/netease_cloud_music_api
 #summary/portainer-ce
+nyanmisaka/jellyfin:240401-amd64
