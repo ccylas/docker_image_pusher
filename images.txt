@@ -9,7 +9,8 @@
 #19970688/nastools-bt
 #linuxserver/plex
 #ghcr.io/hass-demacia/koolsmart:main
-binaryify/netease_cloud_music_api
+#binaryify/netease_cloud_music_api
 #summary/portainer-ce
-nyanmisaka/jellyfin:240401-amd64
-ghcr.io/music-assistant/server
+#nyanmisaka/jellyfin:240401-amd64
+#ghcr.io/music-assistant/server
+xiaoyaliu/alist
