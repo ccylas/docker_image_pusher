@@ -1,7 +1,7 @@
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-6053537/portainer:latest
+#6053537/portainer:latest
 #nyanmisaka/jellyfin:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
@@ -9,4 +9,5 @@
 #19970688/nastools-bt
 #linuxserver/plex
 #ghcr.io/hass-demacia/koolsmart:main
-asdf1221/music_server:4.6.2
+#asdf1221/music_server:4.6.2
+summary/portainer-ce
